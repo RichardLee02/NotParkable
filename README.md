@@ -11,9 +11,3 @@ Parking lot manager (PLM) is a web application that oversees parking spaces, all
 - Rebuild database: psql -U postgres -d postgres -f ./sql_scripts/rebuild_db.sql 
 - Run server: yarn dev 
 - Run client: yarn start
-
-## Contributors 
-
-- Jim 'Ming Chun' Wei (jimwei/jimwei6)
-- Asad Dhorajiwala (AnimeAllstar/ad2001)
-- Richard Lee (Richard Lee/rlee2002)
